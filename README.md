@@ -16,9 +16,9 @@ I enjoy mixing creativity, science, and technology into both teaching and person
 ---
 
 ## 🔗 Connect With Me
-[![placeholder for website :P](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)  
-[![https://www.linkedin.com/in/lucas-schranck-octaviano-5404b2247](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![lucaschranck@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Website (Placeholder)](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)]( - link here -)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lucas-schranck-octaviano-5404b2247))  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaschranck@gmail.com)  
 
 ---
 
