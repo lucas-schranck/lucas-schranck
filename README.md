@@ -11,9 +11,9 @@ I enjoy mixing my knowledge background of literature, teaching, creativity, scie
 - 📖 Teaching English since 2012
 - 🌌 Astronomy lover (especially Pulsars!)  
 - 💻 Already learned and experimented with:  
-  `Python` · `JavaScript` · `Flask` · `REST APIs`  
+  - `Python` · `JavaScript` · `Flask` · `REST APIs`  
 - 📈 Currently learning and experimenting with:  
-  Even more `Python` · `Unity` · `MySQL` · `OOP` ... and others!
+  - Even more `Python` · `Unity` · `MySQL` · `OOP` ... and others!
 ---
 
 ## 🔗 Let's Connect
@@ -45,5 +45,5 @@ Link for some of my favorite projects (or ideas):
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore my repos or connect with me.* ✨
+✨ *Thanks for visiting my profile! Feel free to explore my repos or connect with me.* ✨</br>
 👨‍🏫 Also, if you're interested in learning English. Talk to me! 🧑🏻‍🎓
