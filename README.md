@@ -16,27 +16,29 @@ I enjoy mixing creativity, science, and technology into both teaching and person
 ---
 
 ## 🔗 Let's Connect
-![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)] (this is a placeholder) 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lucas-schranck-octaviano-5404b2247)) be sure to connect with me! 
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaschranck@gmail.com) if you'd like to contact me. 
+![Placeholder](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white) (this is a placeholder) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/lucas-schranck-octaviano-5404b2247)) be sure to connect with me! 
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaschranck@gmail.com) if you'd like to contact me. 
 
 ---
 
 ## 🚀 Featured Projects
-Here are some of my favorite projects (more details inside each repo):
+Placeholder for some of my favorite projects (more details inside each repo):
 
-| Project | Description |
-|---------|-------------|
-| [🔭 Solar System Simulation](https://github.com/your-username/solar-system) | A realistic 3D planetary simulation with Python physics - In progres... |
-| [📚 Obsidian Classes](https://github.com/your-username/first-steps-english) | English Learning material tweaking with Obsidian app - In progress... |
-| [⚙️ Teacher Tools](https://github.com/your-username/teacher-tools) | Placeholder for this project |
-| [🌌 Astronomy Scripts](https://github.com/your-username/astro-tools) | Placeholder for this project |
+| Project | Description | Tools used |
+|---------|-------------|------------|
+| [🔭 Solar System Simulation](https://github.com/lucas-schranck/placeholder1) | A realistic 3D planetary simulation with  - In progres... | Python physics, unity |
+| [📚 Obsidian Classes](https://github.com/lucas-schranck/placeholder2) | English Learning material tweaking  - In progress... | CSS, Obsidian app |
+| [⚙️ Teacher Tools](https://github.com/lucas-schranck/placeholder3) | Placeholder for this project | Placeholder for tools |
+| [🌌 Astronomy Scripts](https://github.com/lucas-schranck/placeholder4) | Placeholder for this project | Placeholder for tools |
 
 ---
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 📊 GitHub Stats (I know T_T )
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-schranck&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-schranck&layout=compact&theme=radical)
 
 ---
 
