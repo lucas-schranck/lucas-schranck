@@ -1,7 +1,8 @@
 # Hi there 👋
 
 I’m **Lucas Schranck** and I'm an English teacher 📚, astronomy enthusiast 🔭, and a curious coder 💻.  
-I enjoy mixing creativity, science, and technology into both teaching and personal projects.  
+I am a bookworm and addicted to studying.</br>
+I enjoy mixing my knowledge background of literature, teaching, creativity, science, and technology into both teaching and personal projects.  
 
 ---
 
@@ -12,7 +13,7 @@ I enjoy mixing creativity, science, and technology into both teaching and person
 - 💻 Already learned and experimented with:  
   `Python` · `JavaScript` · `Flask` · `REST APIs`  
 - 📈 Currently learning and experimenting with:  
-  `More python` · `Unity` · `MySQL` · `OOP` ... and others!
+  Even more `Python` · `Unity` · `MySQL` · `OOP` ... and others!
 ---
 
 ## 🔗 Let's Connect
@@ -30,9 +31,11 @@ Link for some of my favorite projects (or ideas):
 | Project | Description | Tools used | Status |
 |---------|-------------|------------|--------|
 | [🔭 Solar System Sim. - A Study](https://github.com/lucas-schranck/solar-system-study) | A realistic 3D planetary simulation  | `Python Physics` `Unity` `GlowScript`  | 🟢 Online |
-| [📚 Obsidian Classes](https://github.com/lucas-schranck/placeholder2) | Frontend material for English Classes | `CSS`  `Obsidian` | 🔴 On hold |
-| [⚙️ Teacher Tools](https://github.com/lucas-schranck/placeholder3) | Placeholder for this project | Placeholder for tools | 🔴 On hold |
-| [🌌 Other Astronomy Scripts](https://github.com/lucas-schranck/placeholder4) | Scripts for ease of use or measurements | Placeholder for tools | 🔴 On hold |
+| [📚 Obsidian Classes](https://github.com/lucas-schranck/placeholder2) | Frontend material for English Classes | `CSS`  `Obsidian` | 🔴 Offline |
+| [⚙️ Teacher Tools](https://github.com/lucas-schranck/placeholder3) | Placeholder for this project | Placeholder for tools | 🔴 Offline |
+| [🌌 Other Astronomy Scripts](https://github.com/lucas-schranck/placeholder4) | Scripts for ease of use or measurements | Placeholder for tools | 🔴 Offline |
+| [📜 Archived Studies: JS](https://github.com/lucas-schranck/JS-Coding-Lessons) | JS studies by Freecodecamp | `Javascript` `ES6` | 📁 Archived |
+| [📜 Archived Studies: Python](https://github.com/lucas-schranck/Python-Coding-Lessons) | Python by PerianData | `Python` `Jupyter Notebook` | 📁 Archived |
 
 ---
 
