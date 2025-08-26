@@ -25,14 +25,14 @@ I enjoy mixing creativity, science, and technology into both teaching and person
 ---
 
 ## 🚀 Featured Projects
-Placeholder for some of my favorite projects (more details inside each repo):
+Link for some of my favorite projects (or ideas):
 
-| Project | Description | Tools used |
-|---------|-------------|------------|
-| [🔭 Solar System Simulation](https://github.com/lucas-schranck/placeholder1) | A realistic 3D planetary simulation with  - In progres... | Python physics, unity |
-| [📚 Obsidian Classes](https://github.com/lucas-schranck/placeholder2) | English Learning material tweaking  - In progress... | CSS, Obsidian app |
-| [⚙️ Teacher Tools](https://github.com/lucas-schranck/placeholder3) | Placeholder for this project | Placeholder for tools |
-| [🌌 Astronomy Scripts](https://github.com/lucas-schranck/placeholder4) | Placeholder for this project | Placeholder for tools |
+| Project | Description | Tools used | Status |
+|---------|-------------|------------|--------|
+| [🔭 Solar System Sim. - A Study](https://github.com/lucas-schranck/solar-system-study) | A realistic 3D planetary simulation  | `Python Physics` `Unity` `GlowScript`  | 🟢 Online |
+| [📚 Obsidian Classes](https://github.com/lucas-schranck/placeholder2) | Frontend material for English Classes | `CSS`  `Obsidian` | 🔴 On hold |
+| [⚙️ Teacher Tools](https://github.com/lucas-schranck/placeholder3) | Placeholder for this project | Placeholder for tools | 🔴 On hold |
+| [🌌 Other Astronomy Scripts](https://github.com/lucas-schranck/placeholder4) | Scripts for ease of use or measurements | Placeholder for tools | 🔴 On hold |
 
 ---
 
