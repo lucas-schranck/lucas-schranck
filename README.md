@@ -6,13 +6,13 @@ I enjoy mixing creativity, science, and technology into both teaching and person
 ---
 
 ## 🔹 About Me
-- 🌍 Based in [Brazil]  
-- 📖 English teacher for [13 years]  
+- 🌍 Based in Brasil (with an S)
+- 📖 Teaching English since 2012
 - 🌌 Astronomy lover (especially Pulsars!)  
-- 💻 Learned and experimented with:  
+- 💻 Already learned and experimented with:  
   `Python` · `JavaScript` · `Flask` · `REST APIs`  
-- 📈 Learning and experimenting with:  
-  `More python` · `Unity` · `MySQL` · `OOP`  - ... and others!
+- 📈 Currently learning and experimenting with:  
+  `More python` · `Unity` · `MySQL` · `OOP` ... and others!
 ---
 
 ## 🔗 Let's Connect
